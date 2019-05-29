@@ -1,18 +1,7 @@
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
-
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
-
-Happy coding!
-The Cloud9 IDE team
+This task manager will be built using Flask, MongoDB, and a frontend framework called Materialize.
+<br>
+Built with create, read, update, and delete calls, otherwise known as CRUD calls, to a Mongo database.
+This was done in the context of a Flask application.
+<br>
+I created HTML based user interfaces to demonstrate these CRUD calls in action.
+I styled these interfaces using the Materialize framework.
